@@ -18,5 +18,5 @@ performance analysis.
 - Average Votes: 284
 
 ## Dashboard Preview
-![Executive summary Dashboard](Executive summary
+![Executive summary Dashboard](Executive summary.png
 )
